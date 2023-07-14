@@ -1,0 +1,24 @@
+{
+    "positivelogintest":{
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "negativeusernametest":{
+    "username": "incorrectUser",
+    "password": "admin123"
+  },
+  "negativepasswordtest":{
+    "username": "Admin",
+    "password": "incorrectPassword"
+  },
+  "emptyusernameandemptypassword":{
+    "username": " ",
+    "password": " "
+  },
+  "invalidusernameandinvalidpassword":{
+    "username": "Admin",
+    "password": "incorrectPassword"
+  }
+  
+  }
+  
